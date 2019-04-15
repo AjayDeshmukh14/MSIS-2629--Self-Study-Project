@@ -53,7 +53,7 @@ This visualization gives country-wise climate change, the general audience can e
 
 ![](images/Parallel_Climate.png)
 
-This visualizations depicts the fact that climate change is not just the sole reason of human activities rather also due to climate changes. This visualization has descriptive labels and legends, it can easily be understood by the general audience 
+This visualizations depicts the fact that climate change is not just the sole reason of human activities rather also due to climate changes. This visualization has descriptive labels and legends, it can easily be understood by the general audience. The visualization can add a feature of showing the data for the given line while hovering over the temprature line. The visualization added value to the data represented.
 
 
 ## Overall assessment and Conclusion
