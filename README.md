@@ -49,9 +49,21 @@ The visualization shown is an extension of the warming strips and is a beautiful
 
 This visualization gives country-wise climate change, the general audience can easily comprehend the information provided in this visualization, the color combination is good, and the data representation has been good, the main objective can be clearly picked out that all of the countries have rising temperature changes. A good addition to the visualization would be region-wise climate change visualization which shows world map and the consequent climate changes.
 
+### Parallel Climate Model
+
+![](images/Parallel_Climate.png)
+
+This visualizations depicts the fact that climate change is not just the sole reason of human activities rather also due to climate changes. This visualization has descriptive labels and legends.
+
+
 ## Overall assessment and Conclusion
 All the visualizations given above have a great depiction of data and successfully convey the message through the visualizations, but almost all the visualizations can be improved to a certain extent based on the evaluation framework. It is also important to note that how change in the climate can be presented in various ways to convey the same message. The audience for all these visualizations was general public because the topic ‘Climate Change’ effects all of us and the visualizations should be such that are easily understood by everyone. The aesthetic appeal of all these visualizations is good and the color combination used resonates the effects to be shown in the visualizations. Most of the visualizations add significant insights to the data they were derived from and highlight the important information considering the context.
 
 ## References
 1.	https://www.coursera.org/lecture/data-results/14-evaluating-visualizations-IBuU3
 2.	http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=53E1CDEABEFCC98737EBC8365E4518B9?doi=10.1.1.98.5350&rep=rep1&type=pdf
+3.  https://visme.co/blog/climate-change-facts/
+4.  http://www.martingrandjean.ch/global-threat-climate-isis/
+5.  https://earther.gizmodo.com/new-climate-change-visualization-presents-two-stark-cho-1833443663
+6.  https://earther.gizmodo.com/a-new-visualization-turns-global-warming-into-pop-art-1828625479
+7.  https://www.skepticalscience.com/global-warming-natural-cycle.htm
