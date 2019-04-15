@@ -4,7 +4,7 @@ library(RColorBrewer)
 library(tidyverse)
 
 #import the annual tempratures for Mumbai and check
-temp_mum <-read_csv("station.csv")
+temp_mum <-read_csv("Mumbai_temp.csv")
 str(temp_mum)
 
 #select the temprature and year columns and check summary
@@ -42,6 +42,6 @@ ggplot(temp_mum_yr,
      guides(fill=guide_colorbar(barwidth = 1))+
      labs(title="Mumbai 1880-2018",
           caption="Datos: GISS Surface Temperature Analysis")+
-     theme_strip 
+     theme_strip
 
 #https://dominicroye.github.io/en/2018/how-to-create-warming-stripes-in-r/
